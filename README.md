@@ -1,8 +1,8 @@
 # 你好，这里是小涵w~
 # Hi,there yuhan2680~
 
- - 信息
- - Informations
+# 信息
+# Informations
 
 awa，这里是小涵，在各个平台都有混迹的w
 
@@ -29,8 +29,8 @@ E-mail : 2565376223@qq.com & yuhan2680@foxmail.com
 
 Minecraft ID : yuhan2680
 
- - 其它
- - Others
+# 其它
+# Others
 
 性取向大概是无性恋？是暂时不含糖的已出柜MTF
 
