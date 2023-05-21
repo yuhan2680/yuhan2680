@@ -1,7 +1,7 @@
 # 你好，这里是小涵w~
 # Hi,there yuhan2680~
 
-<img align="right" src="https://github.com/yuhan2680/yuhan2680/blob/main/background.jpg">
+<img align="right" src="https://github.com/yuhan2680/yuhan2680/blob/main/background.jpg" width="50%" height="50%>
 
 # 信息
 # Informations
@@ -40,10 +40,13 @@ awa, there`s yuhan2680, would active in many platform
 
 Often use python, but also knows some other languages
 
-会参加各种比赛w，
+会参加各种比赛w，比如NOC、iGEM、青创赛等等
 
-在各个平台账号 & 联系方式：
-Account in other platform & Contact:
+I would join many competitions, like NOC, iGEM, 青创赛 and so on
+
+# 各个平台账号 & 联系方式：
+
+# Account in other platform & Contact:
 
 Twittwe : @yuhan2680
 
