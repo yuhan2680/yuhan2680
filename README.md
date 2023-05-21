@@ -1,10 +1,12 @@
 # 你好，这里是小涵w~
 # Hi,there yuhan2680~
+
 <img align="right" src="https://github.com/yuhan2680/yuhan2680/blob/main/background.jpg">
+
 # 信息
 # Informations
 
-<img align="right" src="https://github.com/yuhan2680/yuhan2680/blob/main/background.jpg">
+<img align="right" src="https://github.com/yuhan2680/yuhan2680/blob/main/cat_chino.jpg">
 
 awa，这里是小涵，在各个平台都有混迹的w
 
@@ -14,8 +16,8 @@ awa, there`s yuhan2680, would active in many platform
 
 Often use python, but also knows some other languages
 
- - 各个平台账号 & 联系方式
- - Account in other platform & Contact
+# 各个平台账号 & 联系方式
+# Account in other platform & Contact
 
 Twittwe : @yuhan2680
 
