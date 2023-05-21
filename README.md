@@ -19,7 +19,7 @@ awa, there`s yuhan2680, would active in many platform
  - 🔭 Studing: C++, HEML, JavaScript φ(>ω<*) 
  
  - 👯 同类可以互相认识一下的啦~ (๑╹ヮ╹๑)ﾉ
- - 👯 We can be a frind ~ (๑╹ヮ╹๑)ﾉ
+ - 👯 We can be a friend ~ (๑╹ヮ╹๑)ﾉ
  
  - 💬 欢迎一起交流交流w (*^o^)人(^o^*)
  - 💬 Welcome discussing (*^o^)人(^o^*)
