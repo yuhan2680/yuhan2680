@@ -1,7 +1,7 @@
 # 你好，这里是小涵w~
 # Hi,there yuhan2680~
 
-<img align="right" src="https://github.com/yuhan2680/yuhan2680/blob/main/background.jpg" width="50%" height="50%>
+<img align="right" src="https://github.com/yuhan2680/yuhan2680/blob/main/background.jpg">
 
 # 信息
 # Informations
