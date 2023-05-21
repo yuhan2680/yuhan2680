@@ -1,5 +1,5 @@
-<h1 align="center" style="background-color:Blue;">你好，这里是小涵w~</h1>
-<h1 align="center" style="background-color:Blue;">Hi,there yuhan2680~</h1>
+<h1 align="center" style="background-color:Blue;">你好，这里是小涵w~ 👋</h1>
+<h1 align="center" style="background-color:Blue;">Hi,there is yuhan2680~ 👋</h1>
 
 <img align="center" src="https://github.com/yuhan2680/yuhan2680/blob/main/background.jpg" alt="恋爱小行星 background" />
 
@@ -61,7 +61,7 @@ Minecraft ID : yuhan2680
 
 性取向大概是无性恋？是暂时不含糖的已出柜MTF
 
-Sexual orientation maybe is asexuality? Is a MTF that has come out of the closet with no drug now
+Sexual orientation maybe is asexuality? Is a MTF that has come out of the closet with no drugs now
 
 ![yuhan2680's GitHub stats](https://github-readme-stats.vercel.app/api?username=yuhan2680&show_icons=true&count_private=true&theme=tokyonight)
 
