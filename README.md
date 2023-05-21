@@ -67,7 +67,7 @@ Sexual orientation maybe is asexuality? Is a MTF that has come out of the closet
 
 ![yuhan2680's GitHub stats](https://github-readme-stats.vercel.app/api?username=yuhan2680&show_icons=true&count_private=true&theme=tokyonight)
 
-[![yuhan2680's GitHub stats](https://github-readme-stats.vercel.app/api?username=yuhan2680)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yuhan2680)](https://github.com/anuraghazra/github-readme-stats)
 
 就是一个科技宅而已啦,平时会写一些没用的程序之类的qwq
 
