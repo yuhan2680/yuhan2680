@@ -63,11 +63,13 @@ Minecraft ID : yuhan2680
 
 Sexual orientation maybe is asexuality? Is a MTF that has come out of the closet with no drug now
 
-
-
 ![yuhan2680's GitHub stats](https://github-readme-stats.vercel.app/api?username=yuhan2680&show_icons=true&count_private=true&theme=tokyonight)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yuhan2680)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=yuhan2680)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=yuhan2680&repo=yuhan2680)](https://github.com/yuhan2680/yuhan2680)
 
 就是一个科技宅而已啦,平时会写一些没用的程序之类的qwq
 
