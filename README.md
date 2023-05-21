@@ -78,3 +78,8 @@ Sexual orientation maybe is asexuality? Is a MTF that has come out of the closet
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=yuhan2680&repo=GBox)](https://github.com/yuhan2680/GBox)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=yuhan2680&repo=PictureStretcher)](https://github.com/yuhan2680/PictureStretcher)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=yuhan2680&repo=AISpeechRecognitionChooseSong)](https://github.com/yuhan2680/AISpeechRecognitionChooseSong)
+
+### 访客数量
+### Visitor Count
+  
+![Visitor Count](https://profile-counter.glitch.me/yuhan2680/count.svg)
