@@ -1,5 +1,5 @@
-<h1>你好，这里是小涵w~</h1>
-<h1>Hi,there yuhan2680~</h1>
+<h1 align="center">你好，这里是小涵w~</h1>
+<h1 align="center">Hi,there yuhan2680~</h1>
 
 # 信息
 # Informations
