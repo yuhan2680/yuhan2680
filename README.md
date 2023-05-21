@@ -12,29 +12,23 @@ awa，这里是小涵，在各个平台都有混迹的w
 
 awa, there`s yuhan2680, would active in many platform
 
- - 🌱 喜欢的语言: Python
+ - 🌱 喜欢的语言: Python (〃'▽'〃)
+ - 🌱 Favourite laguage: Python (〃'▽'〃)
  
- - 🔭 正在学习的: C++, HEML, JavaScript
+ - 🔭 正在学习的: C++, HEML, JavaScript φ(>ω<*) 
+ - 🔭 Studing: C++, HEML, JavaScript φ(>ω<*) 
  
  - 👯 同类可以互相认识一下的啦~
- 
- - 💬 欢迎一起交流交流w
- 
- - 📫 联系方式在下面啦
- 
- - 💕 麻烦给个小星星啦~
-
- - 🌱 Favourite laguage: Python
- 
- - 🔭 Studing: C++, HEML, JavaScript
- 
  - 👯 We can be a frind ~
  
- - 💬 Welcome discussing
+ - 💬 欢迎一起交流交流w (*^o^)人(^o^*)
+ - 💬 Welcome discussing (*^o^)人(^o^*)
  
+ - 📫 联系方式在下面啦
  - 📫 Contact is under there
  
- - 💕 Wants to have some star ~
+ - 💕 麻烦给个小星星啦~
+ - 💕 Wants to have some star ~(〃'▽'〃)
 
 平时主要用的是python啦，其它的语言也稍微有点了解pwp
 
