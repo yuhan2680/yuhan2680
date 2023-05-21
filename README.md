@@ -1,10 +1,10 @@
 # 你好，这里是小涵w~
 # Hi,there yuhan2680~
-<img src="https://github.com/yuhan2680/yuhan2680/head.jpg"/>
+[https://github.com/yuhan2680/yuhan2680/blob/main/background.jpg](https://github.com/yuhan2680/yuhan2680/blob/main/background.jpg)
 # 信息
 # Informations
 
-<img align="right" src="https://github.com/yuhan2680/yuhan2680/background.jpg"/>
+<img align="right" src="https://github.com/yuhan2680/yuhan2680/background.jpg">
 
 awa，这里是小涵，在各个平台都有混迹的w
 
