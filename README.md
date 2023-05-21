@@ -1,5 +1,7 @@
-<h1 align="center" style="background-color:Chartreusee;">你好，这里是小涵w~</h1>
-<h1 align="center" style="background-color:Chartreuse;">Hi,there yuhan2680~</h1>
+<h1 align="center" style="background-color:Blue;">你好，这里是小涵w~</h1>
+<h1 align="center" style="background-color:Blue;">Hi,there yuhan2680~</h1>
+
+<img align="right" src="https://github.com/yuhan2680/yuhan2680/blob/main/background.jpg" width="50%" height="50%">
 
 # 信息
 # Informations
