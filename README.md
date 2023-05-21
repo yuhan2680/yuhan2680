@@ -6,7 +6,7 @@
 # 信息
 # Informations
 
-<img align="right" src="https://github.com/yuhan2680/yuhan2680/blob/main/cat_chino.jpg">
+<img align="right" src="https://github.com/yuhan2680/yuhan2680/blob/main/cat_chino.jpg" width="30%" height="30%">
 
 awa，这里是小涵，在各个平台都有混迹的w
 
