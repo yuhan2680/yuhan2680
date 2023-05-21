@@ -1,12 +1,12 @@
 <h1 align="center" style="background-color:Blue;">你好，这里是小涵w~</h1>
 <h1 align="center" style="background-color:Blue;">Hi,there yuhan2680~</h1>
 
-<img src="https://github.com/yuhan2680/yuhan2680/blob/main/background.jpg">
+<img align="center" src="https://github.com/yuhan2680/yuhan2680/blob/main/background.jpg" alt="恋爱小行星 background" />
 
 # 信息
 # Informations
 
-<img align="right" src="https://github.com/yuhan2680/yuhan2680/blob/main/cat_chino.jpg" width="60%" height="60%">
+<img align="right" src="https://github.com/yuhan2680/yuhan2680/blob/main/cat_chino.jpg" width="60%" height="60%" alt="猫耳智乃酱 cat_chino" />
 
 awa，这里是小涵，在各个平台都有混迹的w
 
