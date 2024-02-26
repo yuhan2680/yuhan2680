@@ -1,5 +1,5 @@
 <h1 align="center" style="background-color:Blue;">你好，这里是小涵w~ 👋</h1>
-<h1 align="center" style="background-color:Blue;">Hi,there is yuhan2680~ 👋</h1>
+<h1 align="center" style="background-color:Blue;">Hi,there is Xiaohan~ 👋</h1>
 
 <img align="center" src="https://github.com/yuhan2680/yuhan2680/blob/main/background.jpg" alt="恋爱小行星 background" />
 
@@ -32,7 +32,7 @@ awa, there`s Xiaohan, active in many platform
 
 平时主要用的是python啦，其它的语言也稍微有点了解pwp
 
-Often use python, but also knows some other languages
+Often use python, but also know some other languages
 
 会参加各种比赛w，比如NOC、iGEM、UKMT等等
 
@@ -65,7 +65,7 @@ Minecraft ID : yuhan2680
 
 性取向大概是无性恋？是含糖Agender(无性别)
 
-Sexual orientation maybe is asexuality? Is a Agender
+Sexual is asexuality maybe? Is an Agender
 
 ![yuhan2680's GitHub stats](https://github-readme-stats.vercel.app/api?username=yuhan2680&show_icons=true&count_private=true&theme=tokyonight)
 
