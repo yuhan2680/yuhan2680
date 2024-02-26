@@ -10,7 +10,7 @@
 
 awa，这里是小涵，在各个平台都有混迹的w
 
-awa, there`s yuhan2680, would active in many platform
+awa, there`s Xiaohan, active in many platform
 
  - 🌱 喜欢的语言: Python (〃'▽'〃)
  - 🌱 Favourite laguage: Python (〃'▽'〃)
@@ -19,7 +19,7 @@ awa, there`s yuhan2680, would active in many platform
  - 🔭 Studing: C++, HEML, JavaScript φ(>ω<*) 
  
  - 👯 同类可以互相认识一下的啦~ (๑╹ヮ╹๑)ﾉ
- - 👯 We can be a friend ~ (๑╹ヮ╹๑)ﾉ
+ - 👯 Want to make friends~ (๑╹ヮ╹๑)ﾉ
  
  - 💬 欢迎一起交流交流w (*^o^)人(^o^*)
  - 💬 Welcome discussing (*^o^)人(^o^*)
@@ -28,29 +28,33 @@ awa, there`s yuhan2680, would active in many platform
  - 📫 Contact is under there (〃'▽'〃)
  
  - 💕 麻烦给个小星星啦~ (￣▽￣)~*
- - 💕 Wants to have some star ~ (￣▽￣)~*
+ - 💕 Wants some star ~ (￣▽￣)~*
 
 平时主要用的是python啦，其它的语言也稍微有点了解pwp
 
 Often use python, but also knows some other languages
 
-会参加各种比赛w，比如NOC、iGEM、青创赛等等
+会参加各种比赛w，比如NOC、iGEM、UKMT等等
 
-I would join many competitions, like NOC, iGEM, 青创赛 and so on
+Joined many competitions before, like NOC, iGEM, UKMT and so on
 
 # 各个平台账号 & 联系方式：
 
 # Account in other platform & Contact:
 
-Twittwe : @yuhan2680
+Twitter(X) : @yuhan2680
 
 QQ : 2565376223
 
-Phone number : (+86)13544062680
+AcFun : 宇创小涵
 
-Wechat : same as phone number
+Bilibili : 神楽坂小涵
 
-Bilibili : 宇创小涵
+YouTube : @yuhan2680
+
+NicoNico : @yuhan2680
+
+Puxiv : @yuhan2680
 
 E-mail : 2565376223@qq.com & yuhan2680@foxmail.com
 
@@ -59,9 +63,9 @@ Minecraft ID : yuhan2680
 # 其它
 # Others
 
-性取向大概是无性恋？是暂时不含糖的已出柜MTF
+性取向大概是无性恋？是含糖Agender(无性别)
 
-Sexual orientation maybe is asexuality? Is a MTF that has come out of the closet with no drugs now
+Sexual orientation maybe is asexuality? Is a Agender
 
 ![yuhan2680's GitHub stats](https://github-readme-stats.vercel.app/api?username=yuhan2680&show_icons=true&count_private=true&theme=tokyonight)
 
