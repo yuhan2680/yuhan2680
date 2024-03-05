@@ -15,8 +15,8 @@ awa, there`s Xiaohan, active in many platform
  - 🌱 喜欢的语言: Python (〃'▽'〃)
  - 🌱 Favourite laguage: Python (〃'▽'〃)
  
- - 🔭 正在学习的: C++, HEML, JavaScript φ(>ω<*) 
- - 🔭 Studing: C++, HEML, JavaScript φ(>ω<*) 
+ - 🔭 正在学习的: C++, HTML, JavaScript φ(>ω<*) 
+ - 🔭 Studing: C++, HTML, JavaScript φ(>ω<*) 
  
  - 👯 同类可以互相认识一下的啦~ (๑╹ヮ╹๑)ﾉ
  - 👯 Want to make friends~ (๑╹ヮ╹๑)ﾉ
@@ -55,6 +55,16 @@ YouTube : @yuhan2680
 NicoNico : @yuhan2680
 
 Puxiv : @yuhan2680
+
+NicoNico : 神楽坂小涵
+
+知乎 : 神楽坂小涵
+
+洛谷 : yuhan2680
+
+gcores : 神楽坂小涵
+
+Github : @yuhan2680
 
 E-mail : 2565376223@qq.com & yuhan2680@foxmail.com
 
