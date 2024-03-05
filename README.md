@@ -38,13 +38,11 @@ Often use python, but also know some other languages
 
 Joined many competitions before, like NOC, iGEM, UKMT and so on
 
-# 各个平台账号 & 联系方式：
+# 各个平台账号：
 
-# Account in other platform & Contact:
+# Account in other platform:
 
 Twitter(X) : @yuhan2680
-
-QQ : 2565376223
 
 AcFun : 宇创小涵
 
@@ -62,20 +60,24 @@ NicoNico : 神楽坂小涵
 
 洛谷 : yuhan2680
 
+微博 : 神楽坂小涵
+
 gcores : 神楽坂小涵
 
 Github : @yuhan2680
-
-E-mail : 2565376223@qq.com & yuhan2680@foxmail.com
 
 Minecraft ID : yuhan2680
 
 # 其它
 # Others
 
-性取向大概是无性恋？是含糖Agender(无性别)
+性取向是无性恋，是正在HRT的Agender(无性别)
 
-Sexual is asexuality maybe? Is an Agender
+Sexual is Asexuality. Is an Agender, HRTing
+
+是一只二次元废萌啦，什么都不会只会装可爱的那种(x)
+
+Is an ACG Otaku! Very cute!
 
 ![yuhan2680's GitHub stats](https://github-readme-stats.vercel.app/api?username=yuhan2680&show_icons=true&count_private=true&theme=tokyonight)
 
