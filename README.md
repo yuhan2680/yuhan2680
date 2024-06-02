@@ -44,13 +44,11 @@ Joined many competitions before, like NOC, iGEM, UKMT and so on
 
 Twitter(X) : @yuhan2680
 
-AcFun : 宇创小涵
+AcFun : 神楽坂小涵🍥
 
 Bilibili : 神楽坂小涵
 
 YouTube : @yuhan2680
-
-NicoNico : @yuhan2680
 
 Puxiv : @yuhan2680
 
