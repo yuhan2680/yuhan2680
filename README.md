@@ -1,5 +1,5 @@
-# [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=&pause=1000&color=44ff69&random=false&width=435&lines=你好%2C+这里是小涵w+（・ω< ）★)](https://git.io/typing-svg)
-# [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=&pause=1000&color=44ff69&random=false&width=435&lines=Hi%2C+There+is+Xiaohan+（・ω< ）★)](https://git.io/typing-svg)
+# [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=&pause=1000&color=44ff69&random=false&width=435&lines=你好%2C+这里是小涵w+（・ω< ）)](https://git.io/typing-svg)
+# [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=&pause=1000&color=44ff69&random=false&width=435&lines=Hi%2C+There+is+Xiaohan+（・ω< ）)](https://git.io/typing-svg)
 
 <img align="center" src="https://github.com/yuhan2680/yuhan2680/blob/main/background.jpg" alt="恋爱小行星 background" />
 
