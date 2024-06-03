@@ -32,9 +32,9 @@ awa, there`s Xiaohan, active in many platform
  - 💕 麻烦给个小星星啦~ (￣▽￣)~*
  - 💕 Wants some star ~ (￣▽￣)~*
 
-平时主要用的是python啦，其它的语言也稍微有点了解pwp
+平时主要用的是python啦，其它的语言也稍微有点了解awa
 
-Often use python, but also know some other languages
+Often use python, but also know some other languages awa
 
 会参加各种比赛w，比如NOC、iGEM、UKMT等等
 
