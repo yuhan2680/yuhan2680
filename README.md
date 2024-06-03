@@ -83,7 +83,7 @@ Is an ACG Otaku! Very cute!
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=yuhan2680&background=003f2f&stroke=d0e9ff&ring=a2d8f4&dates=d0e9ff&sideNums=a2d8f4&currStreakNum=a2d8f4&excludeDaysLabel=d0e9ff&sideLabels=d0e9ffdd&currStreakLabel=a2d8f4" />
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yuhan2680&layout=donut-vertical-chart)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yuhan2680)](https://github.com/anuraghazra/github-readme-stats)
 
 [![yuhan2680's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=yuhan2680&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
