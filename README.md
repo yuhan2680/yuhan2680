@@ -1,5 +1,5 @@
-<h1 align="center" style="background-color:Blue;">你好，这里是小涵w~ 👋</h1>
-<h1 align="center" style="background-color:Blue;">Hi,there is Xiaohan~ 👋</h1>
+# [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=&pause=1000&color=445d69&random=false&width=435&lines=你好%2C+这里+是+小涵+w👋)](https://git.io/typing-svg)
+# [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=&pause=1000&color=445d69&random=false&width=435&lines=Hi%2C+There+is+Xiaohan+👋)](https://git.io/typing-svg)
 
 <img align="center" src="https://github.com/yuhan2680/yuhan2680/blob/main/background.jpg" alt="恋爱小行星 background" />
 
