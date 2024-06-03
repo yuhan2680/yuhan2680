@@ -12,8 +12,8 @@ awa，这里是小涵，在各个平台都有混迹的w
 
 awa, there`s Xiaohan, active in many platform
 
- - 🌱 喜欢的语言: Python (〃'▽'〃)
- - 🌱 Favourite laguage: Python (〃'▽'〃)
+ - 🌱 最常用的语言: Python (〃'▽'〃)
+ - 🌱 Most common used laguage: Python (〃'▽'〃)
  
  - 🔭 正在学习的: C++, HTML, JavaScript φ(>ω<*) 
  - 🔭 Studing: C++, HTML, JavaScript φ(>ω<*) 
