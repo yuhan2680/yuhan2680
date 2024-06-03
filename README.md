@@ -48,9 +48,9 @@ AcFun : 神楽坂小涵🍥
 
 Bilibili : [神楽坂小涵](space.bilibili.com/549633102)
 
-YouTube : @yuhan2680
+YouTube : [@yuhan2680](youtube.com/@yuhan2680)
 
-Puxiv : @yuhan2680
+Pixiv : [神楽坂小涵🍥](www.pixiv.net/users/86800622)
 
 NicoNico : 神楽坂小涵
 
