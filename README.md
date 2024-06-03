@@ -1,5 +1,5 @@
-# [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=&pause=1000&color=445d69&random=false&width=435&lines=你好%2C+这里+是+小涵+w👋)](https://git.io/typing-svg)
-# [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=&pause=1000&color=445d69&random=false&width=435&lines=Hi%2C+There+is+Xiaohan+👋)](https://git.io/typing-svg)
+# [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=&pause=1000&color=44ff69&random=false&width=435&lines=你好%2C+这里是小涵w👋)](https://git.io/typing-svg)
+# [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=&pause=1000&color=44ff69&random=false&width=435&lines=Hi%2C+There+is+Xiaohan+👋)](https://git.io/typing-svg)
 
 <img align="center" src="https://github.com/yuhan2680/yuhan2680/blob/main/background.jpg" alt="恋爱小行星 background" />
 
@@ -42,11 +42,11 @@ Joined many competitions before, like NOC, iGEM, UKMT and so on
 
 # Account in other platform:
 
-Twitter(X) : @yuhan2680
+Twitter(X) : [@yuhan2680](www.twitter.com/yuhan2680)
 
 AcFun : 神楽坂小涵🍥
 
-Bilibili : 神楽坂小涵
+Bilibili : [神楽坂小涵](space.bilibili.com/549633102)
 
 YouTube : @yuhan2680
 
@@ -56,13 +56,13 @@ NicoNico : 神楽坂小涵
 
 知乎 : 神楽坂小涵
 
-洛谷 : yuhan2680
+洛谷 : [yuhan2680](www.luogu.com.cn/user/762387)
 
 微博 : 神楽坂小涵
 
 gcores : 神楽坂小涵
 
-Github : @yuhan2680
+Github : [@yuhan2680](www.github.com/yuhan2680)
 
 Minecraft ID : yuhan2680
 
@@ -79,11 +79,15 @@ Is an ACG Otaku! Very cute!
 
 ![yuhan2680's GitHub stats](https://github-readme-stats.vercel.app/api?username=yuhan2680&show_icons=true&count_private=true&theme=tokyonight)
 
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=yuhan2680&background=003f2f&stroke=d0e9ff&ring=a2d8f4&dates=d0e9ff&sideNums=a2d8f4&currStreakNum=a2d8f4&excludeDaysLabel=d0e9ff&sideLabels=d0e9ffdd&currStreakLabel=a2d8f4" />
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yuhan2680&layout=donut-vertical-chart)](https://github.com/anuraghazra/github-readme-stats)
 
 [![yuhan2680's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=yuhan2680&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-就是一个科技宅而已啦,平时会写一些没用的程序之类的qwq
+就是一个科技宅而已啦,平时会写一些没用的程序之类的QwQ
+
+Just a Tech Otaku, writes some useless programs QwQ
 
 # 一些库
 # Some projects
