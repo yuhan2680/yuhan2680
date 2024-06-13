@@ -46,7 +46,7 @@ Joined many competitions before, like NOC, iGEM, UKMT and so on
 
 Twitter(X) : [@yuhan2680](www.twitter.com/yuhan2680)
 
-AcFun : 神楽坂小涵🍥
+AcFun : [神楽坂小涵🍥](https://m.acfun.cn/upPage/73505042)
 
 Bilibili : [神楽坂小涵](space.bilibili.com/549633102)
 
