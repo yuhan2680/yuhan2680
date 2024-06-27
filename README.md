@@ -56,6 +56,12 @@ Pixiv : [神楽坂小涵🍥](www.pixiv.net/users/86800622)
 
 NicoNico : 神楽坂小涵
 
+Twitch : yuhan2680
+
+Instagram : [yuhan_2680](https://www.instagram.com/yuhan_2680)
+
+Threads : [@yuhan_2680](https://www.threads.net/@yuhan_2680)
+
 知乎 : 神楽坂小涵
 
 洛谷 : [yuhan2680](www.luogu.com.cn/user/762387)
