@@ -68,6 +68,12 @@ Github : [@yuhan2680](www.github.com/yuhan2680)
 
 Minecraft ID : yuhan2680
 
+爱发电 : yuhan2680
+
+Planet Minecraft: yuhan2680
+
+Minecraft Forum : yuhan2680
+
 # 其它
 # Others
 
