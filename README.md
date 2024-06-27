@@ -66,21 +66,21 @@ Threads : [@yuhan_2680](https://www.threads.net/@yuhan_2680)
 
 洛谷 : [yuhan2680](www.luogu.com.cn/user/762387)
 
-微博 : 神楽坂小涵
+微博 : [神楽坂小涵](https://m.weibo.cn/u/7904198853)
 
-gcores : 神楽坂小涵
+gcores : [神楽坂小涵](https://www.gcores.com/users/722778/talks)
 
 Github : [@yuhan2680](www.github.com/yuhan2680)
 
 Minecraft ID : yuhan2680
 
-爱发电 : yuhan2680
+爱发电 : [yuhan2680](https://afdian.net/a/yuhan2680)
 
 Little skin : [神楽坂小涵🍥 UID = 202220](https://littleskin.cn/skinlib?filter=skin&uploader=202220&sort=time&page=1)
 
-Planet Minecraft: yuhan2680
+Planet Minecraft: [yuhan2680](https://www.planetminecraft.com/member/yuhan2680/)
 
-Minecraft Forum : yuhan2680
+Minecraft Forum : [yuhan2680](https://www.minecraftforum.net/members/yuhan2680)
 
 # 其它
 # Others
