@@ -62,7 +62,9 @@ Instagram : [yuhan_2680](https://www.instagram.com/yuhan_2680)
 
 Threads : [@yuhan_2680](https://www.threads.net/@yuhan_2680)
 
-知乎 : 神楽坂小涵
+XBox : GainedCanvas992
+
+知乎 : [神楽坂小涵](https://www.zhihu.com/people/jian-yu-han-41)
 
 洛谷 : [yuhan2680](www.luogu.com.cn/user/762387)
 
@@ -74,6 +76,8 @@ Github : [@yuhan2680](www.github.com/yuhan2680)
 
 Minecraft ID : yuhan2680
 
+Minecraft Wiki : [yuhan2680](https://zh.minecraft.wiki/w/User:Yuhan2680)
+
 爱发电 : [yuhan2680](https://afdian.net/a/yuhan2680)
 
 Little skin : [神楽坂小涵🍥 UID = 202220](https://littleskin.cn/skinlib?filter=skin&uploader=202220&sort=time&page=1)
@@ -81,6 +85,8 @@ Little skin : [神楽坂小涵🍥 UID = 202220](https://littleskin.cn/skinlib?f
 Planet Minecraft: [yuhan2680](https://www.planetminecraft.com/member/yuhan2680/)
 
 Minecraft Forum : [yuhan2680](https://www.minecraftforum.net/members/yuhan2680)
+
+MC百科 : [神楽坂小涵](https://center.mcmod.cn/830050/)
 
 # 其它
 # Others
