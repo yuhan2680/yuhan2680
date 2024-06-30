@@ -76,9 +76,8 @@ Github : [@yuhan2680](www.github.com/yuhan2680)
 
 Minecraft ID : yuhan2680
 
-Minecraft Wiki CN : [Yuhan2680](https://zh.minecraft.wiki/w/User:Yuhan2680) & [Sandbox](https://zh.minecraft.wiki/w/User:Yuhan2680/Sandbox)
-
-Minecraft Wiki EN : [Yuhan2680](https://minecraft.wiki/w/User:Yuhan2680) & [Sandbox](https://minecraft.wiki/w/User:Yuhan2680/Sandbox)
+Minecraft Wiki CN : [Yuhan2680](https://zh.minecraft.wiki/w/User:Yuhan2680)
+Minecraft Wiki EN : [Yuhan2680](https://minecraft.wiki/w/User:Yuhan2680)
 
 爱发电 : [yuhan2680](https://afdian.net/a/yuhan2680)
 
