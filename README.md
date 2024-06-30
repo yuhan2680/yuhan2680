@@ -72,6 +72,8 @@ XBox : yuhan2680 & GainedCanvas992
 
 gcores : [神楽坂小涵](https://www.gcores.com/users/722778/talks)
 
+Wikipedia : Yuhan2680
+
 Github : [@yuhan2680](www.github.com/yuhan2680)
 
 Minecraft ID : yuhan2680
@@ -79,6 +81,8 @@ Minecraft ID : yuhan2680
 Minecraft Wiki CN : [Yuhan2680](https://zh.minecraft.wiki/w/User:Yuhan2680)
 
 Minecraft Wiki EN : [Yuhan2680](https://minecraft.wiki/w/User:Yuhan2680)
+
+Minecraft Wiki 文言文(Ancient Chinese) : [Yuhan2680](https://lzh.minecraft.wiki/w/%E4%BD%BF%E7%94%A8%E8%80%85:Yuhan2680)
 
 爱发电 : [yuhan2680](https://afdian.net/a/yuhan2680)
 
