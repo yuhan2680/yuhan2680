@@ -62,7 +62,7 @@ Instagram : [yuhan_2680](https://www.instagram.com/yuhan_2680)
 
 Threads : [@yuhan_2680](https://www.threads.net/@yuhan_2680)
 
-XBox : GainedCanvas992
+XBox : yuhan2680 & GainedCanvas992
 
 知乎 : [神楽坂小涵](https://www.zhihu.com/people/jian-yu-han-41)
 
