@@ -56,7 +56,7 @@ Pixiv : [神楽坂小涵🍥](www.pixiv.net/users/86800622)
 
 NicoNico : 神楽坂小涵
 
-Twitch : yuhan2680
+Twitch : [yuhan2680](https://www.twitch.tv/yuhan2680)
 
 Instagram : [yuhan_2680](https://www.instagram.com/yuhan_2680)
 
@@ -67,6 +67,8 @@ XBox : yuhan2680 & GainedCanvas992
 知乎 : [神楽坂小涵](https://www.zhihu.com/people/jian-yu-han-41)
 
 洛谷 : [yuhan2680](www.luogu.com.cn/user/762387)
+
+LeetCode : [神楽坂小涵](https://leetcode.cn/u/ama2ing-shamirbrq/)
 
 微博 : [神楽坂小涵](https://m.weibo.cn/u/7904198853)
 
