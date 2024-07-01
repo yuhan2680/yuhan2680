@@ -96,6 +96,8 @@ Minecraft Forum : [yuhan2680](https://www.minecraftforum.net/members/yuhan2680)
 
 MC百科 : [神楽坂小涵](https://center.mcmod.cn/830050/)
 
+MCPEDL : [yuhan2680](https://mcpedl.com/user/yuhan2680/)
+
 # 其它
 # Others
 
