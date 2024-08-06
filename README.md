@@ -117,6 +117,8 @@ Is an ACG Otaku! Very cute!
 
 [![yuhan2680's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=yuhan2680&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=yuhan2680)](https://github.com/ryo-ma/github-profile-trophy)
+
 就是一个科技宅而已啦,平时会写一些没用的程序之类的QwQ
 
 Just a Tech Otaku, writes some useless programs QwQ
