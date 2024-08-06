@@ -105,9 +105,13 @@ MCPEDL : [yuhan2680](https://mcpedl.com/user/yuhan2680/)
 
 Sexual is Asexuality. Is an Agender, HRTing
 
-是一只二次元废萌啦，什么都不会只会装可爱的那种(x)
+是一只二次元废萌，什么都不会只会装可爱的那种(x)
 
 Is an ACG Otaku! Very cute!
+
+就是一个科技宅而已啦,平时会写一些没用的程序之类的QwQ
+
+Just a Tech Otaku, writes some useless programs QwQ
 
 ![yuhan2680's GitHub stats](https://github-readme-stats.vercel.app/api?username=yuhan2680&show_icons=true&count_private=true&theme=tokyonight)
 
@@ -119,9 +123,11 @@ Is an ACG Otaku! Very cute!
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=yuhan2680)](https://github.com/ryo-ma/github-profile-trophy)
 
-就是一个科技宅而已啦,平时会写一些没用的程序之类的QwQ
 
-Just a Tech Otaku, writes some useless programs QwQ
+### 🔝 首要贡献反馈
+### 🔝 Top Contributed Repo
+
+![](https://github-contributor-stats.vercel.app/api?username=yuhan2680&limit=10&combine_all_yearly_contributions=true)
 
 # 一些库
 # Some projects
