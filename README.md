@@ -12,7 +12,7 @@
 
 awa，这里是小涵，在各个平台都有混迹的w
 
-awa, there`s Xiaohan, active in many platform
+awa, there`s Xiaohan, active in many platforms
 
  - 🌱 最常用的语言: Python (〃'▽'〃)
  - 🌱 Most common used laguage: Python (〃'▽'〃)
@@ -42,7 +42,7 @@ Joined many competitions before, like NOC, iGEM, UKMT and so on
 
 # 各个平台账号：
 
-# Account in other platform:
+# Account in other platforms:
 
 
 <img align="right" src="https://github.com/yuhan2680/yuhan2680/blob/main/baiyun.jpeg" width="60%" height="60%" alt="百云龙之助 baiyun" />
@@ -126,11 +126,19 @@ Just a Tech Otaku, writes some useless programs QwQ
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=yuhan2680)](https://github.com/ryo-ma/github-profile-trophy)
 
+### Github贪吃蛇
+### Github snake
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
+  <img alt="github-snake" src="github-snake.svg" />
+</picture>
 
 ### 🔝 首要贡献反馈
 ### 🔝 Top Contributed Repo
 
-![](https://github-contributor-stats.vercel.app/api?username=yuhan2680&limit=10&combine_all_yearly_contributions=true)
+![](https://github-contributor-stats.vercel.app/api?username=yuhan2680&limit=15&combine_all_yearly_contributions=true)
 
 # 一些库
 # Some projects
