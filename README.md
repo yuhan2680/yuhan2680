@@ -59,6 +59,8 @@ Pixiv : [神楽坂小涵🍥](www.pixiv.net/users/86800622)
 
 NicoNico : 神楽坂小涵
 
+WakaTime [神楽坂小涵Xiaohan](https://wakatime.com/@yuhan2680)
+
 Twitch : [yuhan2680](https://www.twitch.tv/yuhan2680)
 
 Instagram : [yuhan_2680](https://www.instagram.com/yuhan_2680)
