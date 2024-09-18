@@ -123,7 +123,7 @@ Gerasim@Home : [yuhan2680](https://gerasim.boinc.ru/users/showUser.aspx?userid=2
 
 RNA World : yuhan2680
 
-LODA : yuhan2680
+LODA : [yuhan2680](https://boinc.loda-lang.org/loda/show_user.php?userid=25450)
 
 Asteroids@Home : [yuhan2680](https://asteroidsathome.net/boinc/view_profile.php?userid=729439)
 
