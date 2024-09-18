@@ -92,7 +92,7 @@ CSDN : [神楽坂小涵](https://blog.csdn.net/2401_86121882)
 
 Minecraft ID : yuhan2680
 
-Minecraft Wiki : Yuhan2680{[中文](https://zh.minecraft.wiki/w/User:Yuhan2680)/[English](https://minecraft.wiki/w/User:Yuhan2680)/[文言](https://lzh.minecraft.wiki/w/%E4%BD%BF%E7%94%A8%E8%80%85:Yuhan2680)}
+Minecraft Wiki : Yuhan2680{[中文](https://zh.minecraft.wiki/w/User:Yuhan2680)/[English](https://minecraft.wiki/w/User:Yuhan2680)/[日本語](https://ja.minecraft.wiki/w/%E3%83%A6%E3%83%BC%E3%82%B6%E3%83%BC:Yuhan2680)/[文言](https://lzh.minecraft.wiki/w/%E4%BD%BF%E7%94%A8%E8%80%85:Yuhan2680)}
 
 Little skin : [神楽坂小涵🍥 UID = 202220](https://littleskin.cn/skinlib?filter=skin&uploader=202220&sort=time&page=1)
 
