@@ -16,19 +16,19 @@ awa, there`s Xiaohan, active in many platforms
 
  - 🌱 最常用的语言: Python (〃'▽'〃)
  - 🌱 Most common used laguage: Python (〃'▽'〃)
- 
- - 🔭 正在学习的: C++, HTML, JavaScript φ(>ω<*) 
- - 🔭 Studing: C++, HTML, JavaScript φ(>ω<*) 
- 
+
+ - 🔭 正在学习的: C++, HTML, JavaScript φ(>ω<*)
+ - 🔭 Studing: C++, HTML, JavaScript φ(>ω<*)
+
  - 👯 同类可以互相认识一下的啦~ (๑╹ヮ╹๑)ﾉ
  - 👯 Want to make friends~ (๑╹ヮ╹๑)ﾉ
- 
+
  - 💬 欢迎一起交流交流w (*^o^)人(^o^*)
  - 💬 Welcome discussing (*^o^)人(^o^*)
- 
+
  - 📫 联系方式在下面啦 (〃'▽'〃)
  - 📫 Contact is under there (〃'▽'〃)
- 
+
  - 💕 麻烦给个小星星啦~ (￣▽￣)~*
  - 💕 Wants some star ~ (￣▽￣)~*
 
@@ -47,15 +47,15 @@ Joined many competitions before, like NOC, iGEM, UKMT and so on
 
 <img align="right" src="https://github.com/yuhan2680/yuhan2680/blob/main/baiyun.jpeg" width="60%" height="60%" alt="百云龙之助 baiyun" />
 
-Twitter(X) : [@yuhan2680](www.twitter.com/yuhan2680)
+Twitter(X) : [@yuhan2680](https://x.com/yuhan2680)
 
 AcFun : [神楽坂小涵🍥](https://m.acfun.cn/upPage/73505042)
 
-Bilibili : [神楽坂小涵](space.bilibili.com/549633102)
+Bilibili : [神楽坂小涵](https://space.bilibili.com/549633102)
 
-YouTube : [@yuhan2680](youtube.com/@yuhan2680)
+YouTube : [@yuhan2680](https://youtube.com/@yuhan2680)
 
-Pixiv : [神楽坂小涵🍥](www.pixiv.net/users/86800622)
+Pixiv : [神楽坂小涵🍥](https://www.pixiv.net/users/86800622)
 
 NicoNico : 神楽坂小涵
 
@@ -71,7 +71,7 @@ XBox : yuhan2680 & GainedCanvas992
 
 知乎 : [神楽坂小涵](https://www.zhihu.com/people/jian-yu-han-41)
 
-洛谷 : [yuhan2680](www.luogu.com.cn/user/762387)
+洛谷 : [yuhan2680](https://www.luogu.com.cn/user/762387)
 
 LeetCode : [神楽坂小涵](https://leetcode.cn/u/ama2ing-shamirbrq/)
 
@@ -81,7 +81,7 @@ gcores : [神楽坂小涵](https://www.gcores.com/users/722778/talks)
 
 Wikipedia : Yuhan2680
 
-Github : [@yuhan2680](www.github.com/yuhan2680)
+Github : [@yuhan2680](https://www.github.com/yuhan2680)
 
 CSDN : [神楽坂小涵](https://blog.csdn.net/2401_86121882)
 
@@ -184,5 +184,5 @@ Just a Tech Otaku, writes some useless programs QwQ
 
 # 访客数量
 # Visitor Count
-  
+
 ![Visitor Count](https://profile-counter.glitch.me/yuhan2680/count.svg)
