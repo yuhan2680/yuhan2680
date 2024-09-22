@@ -166,7 +166,8 @@ Just a Tech Otaku, writes some useless programs QwQ
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/yuhan2680/yuhan2680/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/yuhan2680/yuhan2680/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/yuhan2680/yuhan2680/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="snake.svg">
+ <!-- 本地加载snake.svg, 记得手动更新 -->
 </picture>
 
 ### 🔝 首要贡献反馈
