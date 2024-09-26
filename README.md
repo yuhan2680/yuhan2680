@@ -57,6 +57,8 @@ YouTube : [@yuhan2680](https://youtube.com/@yuhan2680)
 
 Pixiv : [神楽坂小涵🍥](https://www.pixiv.net/users/86800622)
 
+Pixiv Fanbox : [神楽坂小涵🍥](https://yuhan2680.fanbox.cc/)
+
 NicoNico : 神楽坂小涵
 
 WakaTime [神楽坂小涵Xiaohan](https://wakatime.com/@yuhan2680)
