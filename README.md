@@ -47,9 +47,9 @@ Joined many competitions before, like NOC, iGEM, UKMT and so on
 
 <img align="right" src="https://github.com/yuhan2680/yuhan2680/blob/main/baiyun.jpeg" width="60%" height="60%" alt="百云龙之助 baiyun" />
 
-bluesky : [xiaohanqwq](https://bsky.app/profile/xiaohanqwq.bsky.social)
+bluesky : [xiaohanqwq](https://bsky.app/profile/xiaohanqwq.bsky.social) & [yuhan2680](https://bsky.app/profile/yuhan2680.bsky.social)
 
-Twitter(X) : [@Xiaohan_QwQ](https://x.com/Xiaohan_QwQ)
+Twitter(X) : [@Xiaohan_QwQ](https://x.com/Xiaohan_QwQ) & [yuhan2680](https://x.com/yuhan2680)
 
 AcFun : [神楽坂小涵🍥](https://m.acfun.cn/upPage/73505042)
 
