@@ -85,6 +85,10 @@ gcores : [神楽坂小涵](https://www.gcores.com/users/722778/talks)
 
 Wikipedia : Yuhan2680
 
+Fandom Wiki : [Yuhan2680](https://community.fandom.com/wiki/User:Yuhan2680)
+
+Miraheze Wiki : [Yuhan2680](https://meta.miraheze.org/wiki/User:Yuhan2680)
+
 Github : [@yuhan2680](https://www.github.com/yuhan2680)
 
 CSDN : [小涵QwQ](https://blog.csdn.net/2401_86121882)
