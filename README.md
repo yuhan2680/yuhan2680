@@ -89,6 +89,8 @@ Fandom Wiki : [Yuhan2680](https://community.fandom.com/wiki/User:Yuhan2680)
 
 Miraheze Wiki : [Yuhan2680](https://meta.miraheze.org/wiki/User:Yuhan2680)
 
+Midi Show : [神楽坂小涵](https://www.midishow.com/u/%E7%A5%9E%E6%A5%BD%E5%9D%82%E5%B0%8F%E6%B6%B5)
+
 Github : [@yuhan2680](https://www.github.com/yuhan2680)
 
 CSDN : [小涵QwQ](https://blog.csdn.net/2401_86121882)
