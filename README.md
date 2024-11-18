@@ -3,7 +3,7 @@
 # [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=&pause=500&color=44ff69&random=false&width=500&lines=你好%2C+这里是小涵w+❤️)](https://git.io/typing-svg)
 # [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=&pause=500&color=44ff69&random=false&width=500&lines=Hi%2C+There+is+Xiaohan+❤️)](https://git.io/typing-svg)
 
-<img align="center" src="https://github.com/yuhan2680/yuhan2680/blob/main/background.jpg" alt="恋爱小行星 background" />
+![svg](https://github.com/yuhan2680/yuhan2680/blob/main/Xiaohan.svg)
 
 # 信息
 # Informations
@@ -16,19 +16,19 @@ awa, there`s Xiaohan, active in many platforms
 
  - 🌱 最常用的语言: Python (〃'▽'〃)
  - 🌱 Most common used laguage: Python (〃'▽'〃)
- 
- - 🔭 正在学习的: C++, HTML, JavaScript φ(>ω<*) 
- - 🔭 Studing: C++, HTML, JavaScript φ(>ω<*) 
- 
+
+ - 🔭 正在学习的: C++, HTML, JavaScript φ(>ω<*)
+ - 🔭 Studing: C++, HTML, JavaScript φ(>ω<*)
+
  - 👯 同类可以互相认识一下的啦~ (๑╹ヮ╹๑)ﾉ
  - 👯 Want to make friends~ (๑╹ヮ╹๑)ﾉ
- 
+
  - 💬 欢迎一起交流交流w (*^o^)人(^o^*)
  - 💬 Welcome discussing (*^o^)人(^o^*)
- 
+
  - 📫 联系方式在下面啦 (〃'▽'〃)
  - 📫 Contact is under there (〃'▽'〃)
- 
+
  - 💕 麻烦给个小星星啦~ (￣▽￣)~*
  - 💕 Wants some star ~ (￣▽￣)~*
 
@@ -40,6 +40,10 @@ Often use python, but also know some other languages awa
 
 Joined many competitions before, like NOC, iGEM, UKMT and so on
 
+---
+
+<img align="center" src="https://github.com/yuhan2680/yuhan2680/blob/main/background.jpg" alt="恋爱小行星 background" />
+
 # 各个平台账号：
 
 # Account in other platforms:
@@ -47,15 +51,21 @@ Joined many competitions before, like NOC, iGEM, UKMT and so on
 
 <img align="right" src="https://github.com/yuhan2680/yuhan2680/blob/main/baiyun.jpeg" width="60%" height="60%" alt="百云龙之助 baiyun" />
 
-Twitter(X) : [@yuhan2680](www.twitter.com/yuhan2680)
+<img align="right" src="https://github.com/yuhan2680/yuhan2680/blob/main/MC_profile.png" width="60%" height="60%" alt="MC皮肤" />
+
+bluesky : [xiaohanqwq](https://bsky.app/profile/xiaohanqwq.bsky.social) & [yuhan2680](https://bsky.app/profile/yuhan2680.bsky.social)
+
+Twitter(X) : [@Xiaohan_QwQ](https://x.com/Xiaohan_QwQ) & [yuhan2680](https://x.com/yuhan2680)
 
 AcFun : [神楽坂小涵🍥](https://m.acfun.cn/upPage/73505042)
 
-Bilibili : [神楽坂小涵](space.bilibili.com/549633102)
+Bilibili : [小涵_QwQ](https://space.bilibili.com/549633102)
 
-YouTube : [@yuhan2680](youtube.com/@yuhan2680)
+YouTube : [@XiaohanQwQ](https://youtube.com/@XiaohanQwQ)
 
-Pixiv : [神楽坂小涵🍥](www.pixiv.net/users/86800622)
+Pixiv : [小涵QwQ🍥](https://www.pixiv.net/users/86800622)
+
+Pixiv Fanbox : [小涵QwQ🍥](https://yuhan2680.fanbox.cc/)
 
 NicoNico : 神楽坂小涵
 
@@ -69,9 +79,9 @@ Threads : [@yuhan_2680](https://www.threads.net/@yuhan_2680)
 
 XBox : yuhan2680 & GainedCanvas992
 
-知乎 : [神楽坂小涵](https://www.zhihu.com/people/jian-yu-han-41)
+知乎 : [小涵QwQ](https://www.zhihu.com/people/jian-yu-han-41)
 
-洛谷 : [yuhan2680](www.luogu.com.cn/user/762387)
+洛谷 : [XiaohanQwQ](https://www.luogu.com.cn/user/762387)
 
 LeetCode : [神楽坂小涵](https://leetcode.cn/u/ama2ing-shamirbrq/)
 
@@ -79,11 +89,19 @@ LeetCode : [神楽坂小涵](https://leetcode.cn/u/ama2ing-shamirbrq/)
 
 gcores : [神楽坂小涵](https://www.gcores.com/users/722778/talks)
 
-Wikipedia : Yuhan2680
+Wikipedia : [Yuhan2680](https://zh.wikipedia.org/wiki/User:Yuhan2680)
 
-Github : [@yuhan2680](www.github.com/yuhan2680)
+Fandom Wiki : [Yuhan2680](https://community.fandom.com/wiki/User:Yuhan2680)
 
-CSDN : [神楽坂小涵](https://blog.csdn.net/2401_86121882)
+Miraheze Wiki : [Yuhan2680](https://meta.miraheze.org/wiki/User:Yuhan2680)
+
+Wikimedia Commons : [Yuhan2680](https://commons.wikimedia.org/wiki/User:Yuhan2680)
+
+Midi Show : [神楽坂小涵](https://www.midishow.com/u/%E7%A5%9E%E6%A5%BD%E5%9D%82%E5%B0%8F%E6%B6%B5)
+
+Github : [@yuhan2680](https://www.github.com/yuhan2680)
+
+CSDN : [小涵QwQ](https://blog.csdn.net/2401_86121882)
 
 爱发电 : [yuhan2680](https://afdian.net/a/yuhan2680)
 
@@ -94,7 +112,7 @@ Minecraft ID : yuhan2680
 
 Minecraft Wiki : Yuhan2680{[中文](https://zh.minecraft.wiki/w/User:Yuhan2680)/[English](https://minecraft.wiki/w/User:Yuhan2680)/[日本語](https://ja.minecraft.wiki/w/%E3%83%A6%E3%83%BC%E3%82%B6%E3%83%BC:Yuhan2680)/[文言](https://lzh.minecraft.wiki/w/%E4%BD%BF%E7%94%A8%E8%80%85:Yuhan2680)}
 
-Little skin : [神楽坂小涵🍥 UID = 202220](https://littleskin.cn/skinlib?filter=skin&uploader=202220&sort=time&page=1)
+Little skin : [小涵QwQ🍥 UID = 202220](https://littleskin.cn/skinlib?filter=skin&uploader=202220&sort=time&page=1)
 
 NameMC : [yuhan2680](https://namemc.com/profile/yuhan2680.1)
 
@@ -123,7 +141,7 @@ Gerasim@Home : [yuhan2680](https://gerasim.boinc.ru/users/showUser.aspx?userid=2
 
 RNA World : yuhan2680
 
-LODA : yuhan2680
+LODA : [yuhan2680](https://boinc.loda-lang.org/loda/show_user.php?userid=25450)
 
 Asteroids@Home : [yuhan2680](https://asteroidsathome.net/boinc/view_profile.php?userid=729439)
 
@@ -164,9 +182,10 @@ Just a Tech Otaku, writes some useless programs QwQ
 ### Github snake
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Scrohild/MyYuhan2680/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Scrohild/MyYuhan2680/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Scrohild/MyYuhan2680/output/github-contribution-grid-snake.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/yuhan2680/yuhan2680/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/yuhan2680/yuhan2680/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="snake.svg">
+ <!-- 本地加载snake.svg, 记得手动更新 -->
 </picture>
 
 ### 🔝 首要贡献反馈
@@ -184,5 +203,5 @@ Just a Tech Otaku, writes some useless programs QwQ
 
 # 访客数量
 # Visitor Count
-  
+
 ![Visitor Count](https://profile-counter.glitch.me/yuhan2680/count.svg)
