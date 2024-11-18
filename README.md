@@ -3,7 +3,7 @@
 # [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=&pause=500&color=44ff69&random=false&width=500&lines=你好%2C+这里是小涵w+❤️)](https://git.io/typing-svg)
 # [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=&pause=500&color=44ff69&random=false&width=500&lines=Hi%2C+There+is+Xiaohan+❤️)](https://git.io/typing-svg)
 
-<img align="center" src="https://github.com/yuhan2680/yuhan2680/blob/main/background.jpg" alt="恋爱小行星 background" />
+![svg](https://github.com/yuhan2680/yuhan2680/blob/main/Xiaohan.svg)
 
 # 信息
 # Informations
@@ -40,12 +40,18 @@ Often use python, but also know some other languages awa
 
 Joined many competitions before, like NOC, iGEM, UKMT and so on
 
+---
+
+<img align="center" src="https://github.com/yuhan2680/yuhan2680/blob/main/background.jpg" alt="恋爱小行星 background" />
+
 # 各个平台账号：
 
 # Account in other platforms:
 
 
 <img align="right" src="https://github.com/yuhan2680/yuhan2680/blob/main/baiyun.jpeg" width="60%" height="60%" alt="百云龙之助 baiyun" />
+
+<img align="right" src="https://github.com/yuhan2680/yuhan2680/blob/main/MC_profile.png" width="60%" height="60%" alt="MC皮肤" />
 
 bluesky : [xiaohanqwq](https://bsky.app/profile/xiaohanqwq.bsky.social) & [yuhan2680](https://bsky.app/profile/yuhan2680.bsky.social)
 
