@@ -69,6 +69,10 @@ Pixiv Fanbox : [小涵QwQ🍥](https://yuhan2680.fanbox.cc/)
 
 NicoNico : 神楽坂小涵
 
+Steam : [yuhan2680](https://steamcommunity.com/id/yuhan2680/)
+
+TapTap : [yuhan2680](https://www.taptap.io/user/641794550)
+
 萌娘百科 : 神楽坂小涵
 
 WakaTime [神楽坂小涵Xiaohan](https://wakatime.com/@yuhan2680)
