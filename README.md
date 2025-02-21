@@ -105,11 +105,15 @@ Wikimedia Commons : [Yuhan2680](https://commons.wikimedia.org/wiki/User:Yuhan268
 
 Midi Show : [神楽坂小涵](https://www.midishow.com/u/%E7%A5%9E%E6%A5%BD%E5%9D%82%E5%B0%8F%E6%B6%B5)
 
+Steam : [小涵QwQ](https://steamcommunity.com/id/yuhan2680/)
+
 Github : [@yuhan2680](https://www.github.com/yuhan2680)
 
 CSDN : [小涵QwQ](https://blog.csdn.net/2401_86121882)
 
 爱发电 : [yuhan2680](https://afdian.net/a/yuhan2680)
+
+灰机wiki : [Yuhan2680](https://club.huijiwiki.com/wiki/%E7%89%B9%E6%AE%8A:%E9%A9%BE%E9%A9%B6%E5%AE%A4#/user/351813/main)
 
 ### MC相关
 ### Minecraft Related
