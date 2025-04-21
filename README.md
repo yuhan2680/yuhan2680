@@ -53,6 +53,8 @@ Joined many competitions before, like NOC, iGEM, UKMT and so on
 
 <img align="right" src="https://github.com/yuhan2680/yuhan2680/blob/main/MC_profile.png" width="60%" height="60%" alt="MC皮肤" />
 
+POTOFU : [yuhan2680](https://potofu.me/yuhan2680)
+
 bluesky : [xiaohanqwq](https://bsky.app/profile/xiaohanqwq.bsky.social) & [yuhan2680](https://bsky.app/profile/yuhan2680.bsky.social)
 
 Twitter(X) : [@Xiaohan_QwQ](https://x.com/Xiaohan_QwQ) & [yuhan2680](https://x.com/yuhan2680)
