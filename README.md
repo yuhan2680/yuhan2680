@@ -57,19 +57,21 @@ POTOFU : [yuhan2680](https://potofu.me/yuhan2680)
 
 bluesky : [xiaohanqwq](https://bsky.app/profile/xiaohanqwq.bsky.social) & [yuhan2680](https://bsky.app/profile/yuhan2680.bsky.social)
 
-Twitter(X) : [@Xiaohan_QwQ](https://x.com/Xiaohan_QwQ) & [yuhan2680](https://x.com/yuhan2680)
+Twitter(X) : [@Naiwenel](https://x.com/Xiaohan_QwQ) & [yuhan2680](https://x.com/Naiwenel)
 
 AcFun : [神楽坂小涵🍥](https://m.acfun.cn/upPage/73505042)
 
-Bilibili : [小涵_QwQ](https://space.bilibili.com/549633102)
+Bilibili : [小涵Naiwenel](https://space.bilibili.com/549633102)
 
-YouTube : [@XiaohanQwQ](https://youtube.com/@XiaohanQwQ)
+YouTube : [@Naiwenel](https://youtube.com/@XiaohanQwQ)
 
-Pixiv : [小涵QwQ🍥](https://www.pixiv.net/users/86800622)
+Pixiv : [小涵Naiwenel](https://www.pixiv.net/users/86800622)
 
 Pixiv Fanbox : [小涵QwQ🍥](https://yuhan2680.fanbox.cc/)
 
-NicoNico : 神楽坂小涵
+NicoNico : 小涵Naiwenel（ID：131736913）
+
+Twicast : [小涵Naiwenel](https://twitcasting.tv/c:naiwenel)
 
 Steam : [yuhan2680](https://steamcommunity.com/id/yuhan2680/)
 
@@ -79,7 +81,7 @@ TapTap : [yuhan2680](https://www.taptap.io/user/641794550)
 
 WakaTime [神楽坂小涵Xiaohan](https://wakatime.com/@yuhan2680)
 
-Twitch : [yuhan2680](https://www.twitch.tv/yuhan2680)
+Twitch : [Naiwenel](https://www.twitch.tv/naiwenel)
 
 Instagram : [yuhan_2680](https://www.instagram.com/yuhan_2680)
 
@@ -87,7 +89,7 @@ Threads : [@yuhan_2680](https://www.threads.net/@yuhan_2680)
 
 XBox : yuhan2680 & GainedCanvas992
 
-知乎 : [小涵QwQ](https://www.zhihu.com/people/jian-yu-han-41)
+知乎 : [小涵Naiwenel](https://www.zhihu.com/people/jian-yu-han-41)
 
 洛谷 : [XiaohanQwQ](https://www.luogu.com.cn/user/762387)
 
@@ -109,7 +111,7 @@ Wikimedia Commons : [Yuhan2680](https://commons.wikimedia.org/wiki/User:Yuhan268
 
 Midi Show : [神楽坂小涵](https://www.midishow.com/u/%E7%A5%9E%E6%A5%BD%E5%9D%82%E5%B0%8F%E6%B6%B5)
 
-Steam : [小涵QwQ](https://steamcommunity.com/id/yuhan2680/)
+Steam : [小涵Naiwenel](https://steamcommunity.com/id/Naiwenel/)
 
 Github : [@yuhan2680](https://www.github.com/yuhan2680)
 
