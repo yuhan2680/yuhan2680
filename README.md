@@ -71,17 +71,27 @@ Pixiv Fanbox : [小涵QwQ🍥](https://yuhan2680.fanbox.cc/)
 
 NicoNico : 小涵Naiwenel（ID：131736913）
 
+Twitch : [Naiwenel](https://www.twitch.tv/naiwenel)
+
 Twicast : [小涵Naiwenel](https://twitcasting.tv/c:naiwenel)
 
 Steam : [yuhan2680](https://steamcommunity.com/id/yuhan2680/)
 
 TapTap : [yuhan2680](https://www.taptap.io/user/641794550)
 
+Kick : [Naiwenel](https://kick.com/naiwenel)
+
+Trovo : [Naiwenel](https://trovo.live/s/Naiwenel?roomType=1)
+
+OpenREC.tv : [小涵Naiwenel](https://www.openrec.tv/user/j5ezoqllvv0o22c5eiic)
+
+17 live japan : [Naiwenel](https://17.live/en/profile/u/3a74e22a-0f64-4a67-9ebb-e6bf65321a9a)
+
+DLive : [Naiwenel](https://dlive.tv/Naiwenel)
+
 萌娘百科 : 神楽坂小涵
 
 WakaTime [神楽坂小涵Xiaohan](https://wakatime.com/@yuhan2680)
-
-Twitch : [Naiwenel](https://www.twitch.tv/naiwenel)
 
 Instagram : [yuhan_2680](https://www.instagram.com/yuhan_2680)
 
