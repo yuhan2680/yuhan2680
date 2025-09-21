@@ -79,6 +79,10 @@ Steam : [yuhan2680](https://steamcommunity.com/id/yuhan2680/)
 
 TapTap : [yuhan2680](https://www.taptap.io/user/641794550)
 
+SHOWLIVE : [Naiwenel](https://www.showroom-live.com/r/4b6639728636)
+
+SHOWLIVE Fan room : [Naiwenel](https://www.showroom-live.com/room/fan_club?room_id=560447)
+
 Kick : [Naiwenel](https://kick.com/naiwenel)
 
 Trovo : [Naiwenel](https://trovo.live/s/Naiwenel?roomType=1)
