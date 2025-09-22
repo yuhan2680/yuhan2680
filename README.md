@@ -1,7 +1,7 @@
 
 
 # [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=&pause=500&color=44ff69&random=false&width=500&lines=你好%2C+这里是小涵w+❤️)](https://git.io/typing-svg)
-# [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=&pause=500&color=44ff69&random=false&width=500&lines=Hi%2C+There+is+Xiaohan+❤️)](https://git.io/typing-svg)
+# [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=&pause=500&color=44ff69&random=false&width=500&lines=Hi%2C+There+is+Naiwenel+❤️)](https://git.io/typing-svg)
 
 ![svg](https://github.com/yuhan2680/yuhan2680/blob/main/Xiaohan.svg)
 
@@ -90,6 +90,8 @@ Trovo : [Naiwenel](https://trovo.live/s/Naiwenel?roomType=1)
 OpenREC.tv : [小涵Naiwenel](https://www.openrec.tv/user/j5ezoqllvv0o22c5eiic)
 
 17 live japan : [Naiwenel](https://17.live/en/profile/u/3a74e22a-0f64-4a67-9ebb-e6bf65321a9a)
+
+REALITY : [小涵Naiwenel](https://reality.app/profile/b7f4bbf5?adj_t=8ogcewh_z9yhix5)
 
 DLive : [Naiwenel](https://dlive.tv/Naiwenel)
 
