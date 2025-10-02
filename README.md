@@ -95,6 +95,8 @@ REALITY : [小涵Naiwenel](https://reality.app/profile/b7f4bbf5?adj_t=8ogcewh_z9
 
 DLive : [Naiwenel](https://dlive.tv/Naiwenel)
 
+BIGO LIVE : [小涵Naiwenel](https://www.bigo.tv/user/1090978880?sc=juCU5A)
+
 萌娘百科 : 神楽坂小涵
 
 WakaTime [神楽坂小涵Xiaohan](https://wakatime.com/@yuhan2680)
