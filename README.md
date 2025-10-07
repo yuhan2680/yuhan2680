@@ -97,6 +97,10 @@ DLive : [Naiwenel](https://dlive.tv/Naiwenel)
 
 BIGO LIVE : [小涵Naiwenel](https://www.bigo.tv/user/1090978880?sc=juCU5A)
 
+IRIAM (US) : [Naiwenel](https://web.iriam.app/s/user/rhHdFiCvzA?uuid=99692ab3)
+
+IRIAM (Japan) : [小涵Naiwenel](https://web.iriam.app/s/user/JOGUL21Yrn?uuid=01223c4b)
+
 萌娘百科 : 神楽坂小涵
 
 WakaTime [神楽坂小涵Xiaohan](https://wakatime.com/@yuhan2680)
