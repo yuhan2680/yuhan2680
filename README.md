@@ -141,6 +141,8 @@ CSDN : [小涵QwQ](https://blog.csdn.net/2401_86121882)
 
 爱发电 : [yuhan2680](https://afdian.net/a/yuhan2680)
 
+微信公众号 : [小涵Naiwenel](https://mp.weixin.qq.com/s/f8_mq9Yt-WjnxoB-a0fSsA)
+
 灰机wiki : [Yuhan2680](https://club.huijiwiki.com/wiki/%E7%89%B9%E6%AE%8A:%E9%A9%BE%E9%A9%B6%E5%AE%A4#/user/351813/main)
 
 蜜柑计划-Mikan Project : 小涵QwQ
