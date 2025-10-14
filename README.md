@@ -8,7 +8,7 @@
 # 信息
 # Informations
 
-<img align="right" src="https://github.com/yuhan2680/yuhan2680/blob/main/cat_chino.jpg" width="60%" height="60%" alt="猫耳智乃酱 cat_chino" />
+<img align="right" src="https://github.com/yuhan2680/yuhan2680/blob/main/%E5%B0%8F%E6%B6%B5-%E8%93%9D.png" width="60%" height="60%" alt="蓝发小涵" />
 
 awa，这里是小涵，在各个平台都有混迹的w
 
@@ -49,7 +49,7 @@ Joined many competitions before, like NOC, iGEM, UKMT and so on
 # Account in other platforms:
 
 
-<img align="right" src="https://github.com/yuhan2680/yuhan2680/blob/main/baiyun.jpeg" width="60%" height="60%" alt="百云龙之助 baiyun" />
+<img align="right" src="https://github.com/yuhan2680/yuhan2680/blob/main/%E5%B0%8F%E6%B6%B5-%E7%BB%BF.jpg" width="60%" height="60%" alt="绿发小涵" />
 
 <img align="right" src="https://github.com/yuhan2680/yuhan2680/blob/main/MC_profile.png" width="60%" height="60%" alt="MC皮肤" />
 
