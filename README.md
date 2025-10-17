@@ -139,7 +139,7 @@ Github : [@yuhan2680](https://www.github.com/yuhan2680)
 
 CSDN : [小涵QwQ](https://blog.csdn.net/2401_86121882)
 
-爱发电 : [yuhan2680](https://afdian.net/a/yuhan2680)
+爱发电 : [yuhan2680](https://afdian.com/a/yuhan2680)
 
 微信公众号 : [小涵Naiwenel](https://mp.weixin.qq.com/s/f8_mq9Yt-WjnxoB-a0fSsA)
 
