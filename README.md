@@ -8,7 +8,7 @@
 # 信息
 # Informations
 
-<img align="right" src="https://github.com/yuhan2680/yuhan2680/blob/main/%E5%B0%8F%E6%B6%B5-%E8%93%9D.png" width="60%" height="60%" alt="蓝发小涵" />
+<img align="right" src="https://github.com/yuhan2680/yuhan2680/blob/main/%E5%B0%8F%E6%B6%B5-%E8%93%9D.png" width="43%" height="43%" alt="蓝发小涵" />
 
 awa，这里是小涵，在各个平台都有混迹的w
 
