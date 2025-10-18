@@ -121,7 +121,7 @@ LeetCode : [神楽坂小涵](https://leetcode.cn/u/ama2ing-shamirbrq/)
 
 百度贴吧 : [小涵QwQ](https://tieba.baidu.com/home/main?un=%E5%B0%8F%E6%B6%B5_QwQ)
 
-gcores : [神楽坂小涵](https://www.gcores.com/users/722778/talks)
+gcores : [小涵Naiwenel](https://www.gcores.com/users/722778/talks)
 
 Wikipedia : [Yuhan2680](https://zh.wikipedia.org/wiki/User:Yuhan2680)
 
