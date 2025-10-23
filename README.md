@@ -59,7 +59,7 @@ bluesky : [xiaohanqwq](https://bsky.app/profile/xiaohanqwq.bsky.social) & [yuhan
 
 Twitter(X) : [@Naiwenel](https://x.com/Xiaohan_QwQ) & [yuhan2680](https://x.com/Naiwenel)
 
-AcFun : [神楽坂小涵🍥](https://m.acfun.cn/upPage/73505042)
+AcFun : [神楽坂小涵🍥](https://www.acfun.cn/u/73505042)
 
 Bilibili : [小涵Naiwenel](https://space.bilibili.com/549633102)
 
