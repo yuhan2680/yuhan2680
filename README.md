@@ -115,7 +115,7 @@ XBox : yuhan2680 & GainedCanvas992
 
 知乎 : [小涵Naiwenel](https://www.zhihu.com/people/jian-yu-han-41)
 
-洛谷 : [XiaohanQwQ](https://www.luogu.com.cn/user/762387)
+洛谷 : [Naiwenel](https://www.luogu.com.cn/user/762387)
 
 LeetCode : [神楽坂小涵](https://leetcode.cn/u/ama2ing-shamirbrq/)
 
