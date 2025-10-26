@@ -49,15 +49,15 @@ Joined many competitions before, like NOC, iGEM, UKMT and so on
 # Account in other platforms:
 
 
-<img align="right" src="https://github.com/yuhan2680/yuhan2680/blob/main/%E5%B0%8F%E6%B6%B5-%E7%BB%BF.jpg" width="60%" height="60%" alt="绿发小涵" />
+<img align="right" src="https://github.com/yuhan2680/yuhan2680/blob/main/%E5%B0%8F%E6%B6%B5-%E7%BB%BF.jpg" width="50%" height="50%" alt="绿发小涵" />
 
-<img align="right" src="https://github.com/yuhan2680/yuhan2680/blob/main/MC_profile.png" width="60%" height="60%" alt="MC皮肤" />
+<img align="right" src="https://github.com/yuhan2680/yuhan2680/blob/main/MC_profile.png" width="50%" height="50%" alt="MC皮肤" />
 
-POTOFU : [yuhan2680](https://potofu.me/yuhan2680)
+POTOFU : [Naiwenel](https://potofu.me/naiwenel) & [yuhan2680](https://potofu.me/yuhan2680)
 
-bluesky : [xiaohanqwq](https://bsky.app/profile/xiaohanqwq.bsky.social) & [yuhan2680](https://bsky.app/profile/yuhan2680.bsky.social)
+bluesky : [@naiwenel.bsky.social](https://bsky.app/profile/naiwenel.bsky.social) & [yuhan2680](https://bsky.app/profile/yuhan2680.bsky.social)
 
-Twitter(X) : [@Naiwenel](https://x.com/Xiaohan_QwQ) & [yuhan2680](https://x.com/Naiwenel)
+Twitter(X) : [@Naiwenel](https://x.com/Naiwenel) & [@yuhan2680](https://x.com/yuhan2680)
 
 AcFun : [神楽坂小涵🍥](https://www.acfun.cn/u/73505042)
 
@@ -65,19 +65,17 @@ Bilibili : [小涵Naiwenel](https://space.bilibili.com/549633102)
 
 喵御宅 : [Naiwenel](https://www.mfuns.net/member/81831)
 
-YouTube : [@Naiwenel](https://youtube.com/@XiaohanQwQ)
+YouTube : [@Naiwenel](https://www.youtube.com/@Naiwenel)
 
 Pixiv : [小涵Naiwenel](https://www.pixiv.net/users/86800622)
 
 Pixiv Fanbox : [小涵QwQ🍥](https://yuhan2680.fanbox.cc/)
 
-NicoNico : 小涵Naiwenel（ID：131736913）
+NicoNico : [小涵Naiwenel](https://www.nicovideo.jp/user/131736913)
 
 Twitch : [Naiwenel](https://www.twitch.tv/naiwenel)
 
 Twicast : [小涵Naiwenel](https://twitcasting.tv/c:naiwenel)
-
-Steam : [yuhan2680](https://steamcommunity.com/id/yuhan2680/)
 
 TapTap : [yuhan2680](https://www.taptap.io/user/641794550)
 
