@@ -59,6 +59,8 @@ bluesky : [@naiwenel.bsky.social](https://bsky.app/profile/naiwenel.bsky.social)
 
 Twitter(X) : [@Naiwenel](https://x.com/Naiwenel) & [@yuhan2680](https://x.com/yuhan2680)
 
+Lofter : [Naiwenel](https://naiwenel.lofter.com/)
+
 AcFun : [神楽坂小涵🍥](https://www.acfun.cn/u/73505042)
 
 Bilibili : [小涵Naiwenel](https://space.bilibili.com/549633102)
@@ -77,7 +79,7 @@ Twitch : [Naiwenel](https://www.twitch.tv/naiwenel)
 
 Twicast : [小涵Naiwenel](https://twitcasting.tv/c:naiwenel)
 
-TapTap : [yuhan2680](https://www.taptap.io/user/641794550)
+TapTap : [Naiwenel](https://www.taptap.io/user/641794550)
 
 SHOWLIVE : [Naiwenel](https://www.showroom-live.com/r/4b6639728636)
 
@@ -103,11 +105,11 @@ IRIAM (Japan) : [小涵Naiwenel](https://web.iriam.app/s/user/JOGUL21Yrn?uuid=01
 
 萌娘百科 : 神楽坂小涵
 
-WakaTime [神楽坂小涵Xiaohan](https://wakatime.com/@yuhan2680)
+WakaTime [小涵Naiwenel](https://wakatime.com/@naiwenel)
 
-Instagram : [yuhan_2680](https://www.instagram.com/yuhan_2680)
+Instagram : [@Naiwenel](https://www.instagram.com/naiwenel/) & [yuhan_2680](https://www.instagram.com/yuhan_2680)
 
-Threads : [@yuhan_2680](https://www.threads.net/@yuhan_2680)
+Threads : @Naiwenel & [@yuhan_2680](https://www.threads.net/@yuhan_2680)
 
 XBox : yuhan2680 & GainedCanvas992
 
@@ -115,7 +117,7 @@ XBox : yuhan2680 & GainedCanvas992
 
 洛谷 : [Naiwenel](https://www.luogu.com.cn/user/762387)
 
-LeetCode : [神楽坂小涵](https://leetcode.cn/u/ama2ing-shamirbrq/)
+LeetCode : [小涵Naiwenel](leetcode.cn/u/naiwenel/) & [神楽坂小涵](https://leetcode.cn/u/ama2ing-shamirbrq/)
 
 微博 : [神楽坂小涵](https://m.weibo.cn/u/7904198853)
 
@@ -139,7 +141,7 @@ Github : [@yuhan2680](https://www.github.com/yuhan2680)
 
 CSDN : [小涵QwQ](https://blog.csdn.net/2401_86121882)
 
-爱发电 : [yuhan2680](https://afdian.com/a/yuhan2680)
+爱发电 : [小涵Naiwenel](https://afdian.com/a/naiwenel)
 
 微信公众号 : [小涵Naiwenel](https://mp.weixin.qq.com/s/f8_mq9Yt-WjnxoB-a0fSsA)
 
@@ -149,7 +151,7 @@ CSDN : [小涵QwQ](https://blog.csdn.net/2401_86121882)
 
 動漫花園資源網 : yuhan2680
 
-模之家 : [小涵QwQ](https://www.aplaybox.com/u/685692993)
+模之家 : [小涵Naiwenel](https://www.aplaybox.com/u/685692993)
 
 ### MC相关
 ### Minecraft Related
