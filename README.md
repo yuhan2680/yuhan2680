@@ -61,53 +61,13 @@ Twitter(X) : [@Naiwenel](https://x.com/Naiwenel) & [@yuhan2680](https://x.com/yu
 
 Lofter : [Naiwenel](https://naiwenel.lofter.com/)
 
-AcFun : [神楽坂小涵🍥](https://www.acfun.cn/u/73505042)
-
-Bilibili : [小涵Naiwenel](https://space.bilibili.com/549633102)
-
-喵御宅 : [Naiwenel](https://www.mfuns.net/member/81831)
-
-YouTube : [@Naiwenel](https://www.youtube.com/@Naiwenel)
-
 Pixiv : [小涵Naiwenel](https://www.pixiv.net/users/86800622)
 
 Pixiv Fanbox : [小涵QwQ🍥](https://yuhan2680.fanbox.cc/)
 
-NicoNico : [小涵Naiwenel](https://www.nicovideo.jp/user/131736913)
-
-Twitch : [Naiwenel](https://www.twitch.tv/naiwenel)
-
-Twicast : [小涵Naiwenel](https://twitcasting.tv/c:naiwenel)
-
-TapTap : [Naiwenel](https://www.taptap.io/user/641794550)
-
-SHOWLIVE : [Naiwenel](https://www.showroom-live.com/r/4b6639728636)
-
-SHOWLIVE Fan room : [Naiwenel](https://www.showroom-live.com/room/fan_club?room_id=560447)
-
-Kick : [Naiwenel](https://kick.com/naiwenel)
-
-Trovo : [Naiwenel](https://trovo.live/s/Naiwenel?roomType=1)
-
-OpenREC.tv : [小涵Naiwenel](https://www.openrec.tv/user/j5ezoqllvv0o22c5eiic)
-
-17 live japan : [Naiwenel](https://17.live/en/profile/u/3a74e22a-0f64-4a67-9ebb-e6bf65321a9a)
-
-REALITY : [小涵Naiwenel](https://reality.app/profile/b7f4bbf5?adj_t=8ogcewh_z9yhix5)
-
-DLive : [Naiwenel](https://dlive.tv/Naiwenel)
-
-BIGO LIVE : [小涵Naiwenel](https://www.bigo.tv/user/1090978880?sc=juCU5A)
-
-IRIAM (US) : [Naiwenel](https://web.iriam.app/s/user/rhHdFiCvzA?uuid=99692ab3)
-
-IRIAM (Japan) : [小涵Naiwenel](https://web.iriam.app/s/user/JOGUL21Yrn?uuid=01223c4b)
-
 萌娘百科 : 神楽坂小涵
 
 WakaTime [小涵Naiwenel](https://wakatime.com/@naiwenel)
-
-Instagram : [@Naiwenel](https://www.instagram.com/naiwenel/) & [yuhan_2680](https://www.instagram.com/yuhan_2680)
 
 Threads : @Naiwenel & [@yuhan_2680](https://www.threads.net/@yuhan_2680)
 
@@ -135,13 +95,13 @@ Wikimedia Commons : [Yuhan2680](https://commons.wikimedia.org/wiki/User:Yuhan268
 
 Midi Show : [神楽坂小涵](https://www.midishow.com/u/%E7%A5%9E%E6%A5%BD%E5%9D%82%E5%B0%8F%E6%B6%B5)
 
+TapTap : [Naiwenel](https://www.taptap.io/user/641794550)
+
 Steam : [小涵Naiwenel](https://steamcommunity.com/id/Naiwenel/)
 
 Github : [@yuhan2680](https://www.github.com/yuhan2680)
 
 CSDN : [小涵QwQ](https://blog.csdn.net/2401_86121882)
-
-爱发电 : [小涵Naiwenel](https://afdian.com/a/naiwenel)
 
 微信公众号 : [小涵Naiwenel](https://mp.weixin.qq.com/s/f8_mq9Yt-WjnxoB-a0fSsA)
 
@@ -152,6 +112,54 @@ CSDN : [小涵QwQ](https://blog.csdn.net/2401_86121882)
 動漫花園資源網 : yuhan2680
 
 模之家 : [小涵Naiwenel](https://www.aplaybox.com/u/685692993)
+
+### 视频&直播相关
+### Video&Live Related
+
+YouTube : [@Naiwenel](https://www.youtube.com/@Naiwenel)
+
+AcFun : [神楽坂小涵🍥](https://www.acfun.cn/u/73505042)
+
+Bilibili : [小涵Naiwenel](https://space.bilibili.com/549633102)
+
+NicoNico : [小涵Naiwenel](https://www.nicovideo.jp/user/131736913)
+
+喵御宅 : [Naiwenel](https://www.mfuns.net/member/81831)
+
+Twitch : [Naiwenel](https://www.twitch.tv/naiwenel)
+
+Instagram : [@Naiwenel](https://www.instagram.com/naiwenel/) & [yuhan_2680](https://www.instagram.com/yuhan_2680)
+
+Twicast : [小涵Naiwenel](https://twitcasting.tv/c:naiwenel)
+
+SHOWLIVE : [Naiwenel](https://www.showroom-live.com/r/4b6639728636)
+
+SHOWLIVE Fan room : [Naiwenel](https://www.showroom-live.com/room/fan_club?room_id=560447)
+
+Kick : [Naiwenel](https://kick.com/naiwenel)
+
+Trovo : [Naiwenel](https://trovo.live/s/Naiwenel?roomType=1)
+
+OpenREC.tv : [小涵Naiwenel](https://www.openrec.tv/user/j5ezoqllvv0o22c5eiic)
+
+17 live japan : [Naiwenel](https://17.live/en/profile/u/3a74e22a-0f64-4a67-9ebb-e6bf65321a9a)
+
+REALITY : [小涵Naiwenel](https://reality.app/profile/b7f4bbf5?adj_t=8ogcewh_z9yhix5)
+
+DLive : [Naiwenel](https://dlive.tv/Naiwenel)
+
+BIGO LIVE : [小涵Naiwenel](https://www.bigo.tv/user/1090978880?sc=juCU5A)
+
+IRIAM (US) : [Naiwenel](https://web.iriam.app/s/user/rhHdFiCvzA?uuid=99692ab3)
+
+IRIAM (Japan) : [小涵Naiwenel](https://web.iriam.app/s/user/JOGUL21Yrn?uuid=01223c4b)
+
+### 众筹相关
+### Sponsor Related
+
+爱发电 : [小涵Naiwenel](https://afdian.com/a/naiwenel)
+
+Open Collective : [Naiwenel](https://opencollective.com/naiwenel)
 
 ### MC相关
 ### Minecraft Related
