@@ -65,7 +65,7 @@ Lofter : [Naiwenel](https://naiwenel.lofter.com/)
 
 Pixiv : [小涵Naiwenel](https://www.pixiv.net/users/86800622)
 
-Pixiv Fanbox : [小涵QwQ🍥](https://yuhan2680.fanbox.cc/)
+Pixiv Fanbox : [小涵Naiwenel](https://naiwenel.fanbox.cc/)
 
 萌娘百科 : 神楽坂小涵
 
