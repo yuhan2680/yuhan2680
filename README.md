@@ -232,7 +232,7 @@ Just a Tech Otaku, writes some useless programs QwQ
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yuhan2680)](https://github.com/anuraghazra/github-readme-stats)
 
-[![yuhan2680's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=yuhan2680&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Naiwenel's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=naiwenel&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=yuhan2680)](https://github.com/ryo-ma/github-profile-trophy)
 
