@@ -97,12 +97,6 @@ Wikimedia Commons : [Yuhan2680](https://commons.wikimedia.org/wiki/User:Yuhan268
 
 Midi Show : [神楽坂小涵](https://www.midishow.com/u/%E7%A5%9E%E6%A5%BD%E5%9D%82%E5%B0%8F%E6%B6%B5)
 
-TapTap : [Naiwenel](https://www.taptap.io/user/641794550)
-
-Steam : [小涵Naiwenel](https://steamcommunity.com/id/Naiwenel/)
-
-IndieNova: [Naiwenel](https://indienova.com/u/naiwenel)
-
 Github : [@yuhan2680](https://www.github.com/yuhan2680)
 
 CSDN : [小涵QwQ](https://blog.csdn.net/2401_86121882)
@@ -112,6 +106,19 @@ CSDN : [小涵QwQ](https://blog.csdn.net/2401_86121882)
 灰机wiki : [Yuhan2680](https://club.huijiwiki.com/wiki/%E7%89%B9%E6%AE%8A:%E9%A9%BE%E9%A9%B6%E5%AE%A4#/user/351813/main)
 
 模之家 : [小涵Naiwenel](https://www.aplaybox.com/u/685692993)
+
+### 游戏相关
+### Game Related
+
+Steam Developer : [Naiwenel](https://store.steampowered.com/developer/Naiwenel)
+
+Steam : [小涵Naiwenel](https://steamcommunity.com/id/Naiwenel/)
+
+IndieNova: [Naiwenel](https://indienova.com/u/naiwenel)
+
+itch : [Naiwenel](https://naiwenel.itch.io)
+
+TapTap : [Naiwenel](https://www.taptap.io/user/641794550)
 
 ### 视频&直播相关
 ### Video&Live Related
