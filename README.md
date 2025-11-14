@@ -101,6 +101,8 @@ TapTap : [Naiwenel](https://www.taptap.io/user/641794550)
 
 Steam : [小涵Naiwenel](https://steamcommunity.com/id/Naiwenel/)
 
+IndieNova: [Naiwenel](https://indienova.com/u/naiwenel)
+
 Github : [@yuhan2680](https://www.github.com/yuhan2680)
 
 CSDN : [小涵QwQ](https://blog.csdn.net/2401_86121882)
@@ -108,10 +110,6 @@ CSDN : [小涵QwQ](https://blog.csdn.net/2401_86121882)
 微信公众号 : [小涵Naiwenel](https://mp.weixin.qq.com/s/f8_mq9Yt-WjnxoB-a0fSsA)
 
 灰机wiki : [Yuhan2680](https://club.huijiwiki.com/wiki/%E7%89%B9%E6%AE%8A:%E9%A9%BE%E9%A9%B6%E5%AE%A4#/user/351813/main)
-
-蜜柑计划-Mikan Project : 小涵QwQ
-
-動漫花園資源網 : yuhan2680
 
 模之家 : [小涵Naiwenel](https://www.aplaybox.com/u/685692993)
 
