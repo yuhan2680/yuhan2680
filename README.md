@@ -166,7 +166,7 @@ IRIAM (Japan) : [小涵Naiwenel](https://web.iriam.app/s/user/JOGUL21Yrn?uuid=01
 
 爱发电 : [小涵Naiwenel](https://afdian.com/a/naiwenel)
 
-Open Collective : [Naiwenel](https://opencollective.com/naiwenel)
+Open Collective : [Naiwenel(个人)](https://opencollective.com/naiwenel) & [Naiwenel(组织)](https://opencollective.com/yuhan2680)
 
 ### MC相关
 ### Minecraft Related
