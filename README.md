@@ -120,6 +120,23 @@ itch : [Naiwenel](https://naiwenel.itch.io)
 
 TapTap : [Naiwenel](https://www.taptap.io/user/641794550)
 
+### 众筹相关
+### Sponsor Related
+
+爱发电 : [小涵Naiwenel](https://afdian.com/a/naiwenel)
+
+摩点 : [小涵Naiwenel](https://www.modian.com/user/homepage/1009830600)
+
+新物集 : 小涵Naiwenel
+
+Kickstarter : [小涵Naiwenel](https://www.kickstarter.com/profile/naiwenel)
+
+Patreon : [小涵Naiwenel](https://www.patreon.com/cw/Naiwenel)
+
+Indiegogo : [Naiwenel](https://www.indiegogo.com/en/profile/naiwenel#/overview)
+
+Open Collective : [Naiwenel(个人页)](https://opencollective.com/naiwenel) & [Naiwenel(众筹页)](https://opencollective.com/yuhan2680)
+
 ### 视频&直播相关
 ### Video&Live Related
 
@@ -160,19 +177,6 @@ BIGO LIVE : [小涵Naiwenel](https://www.bigo.tv/user/1090978880?sc=juCU5A)
 IRIAM (US) : [Naiwenel](https://web.iriam.app/s/user/rhHdFiCvzA?uuid=99692ab3)
 
 IRIAM (Japan) : [小涵Naiwenel](https://web.iriam.app/s/user/JOGUL21Yrn?uuid=01223c4b)
-
-### 众筹相关
-### Sponsor Related
-
-爱发电 : [小涵Naiwenel](https://afdian.com/a/naiwenel)
-
-摩点 : [小涵Naiwenel](https://www.modian.com/user/homepage/1009830600)
-
-新物集 : 小涵Naiwenel
-
-Kickstarter : [小涵Naiwenel](https://www.kickstarter.com/profile/naiwenel)
-
-Open Collective : [Naiwenel(个人页)](https://opencollective.com/naiwenel) & [Naiwenel(众筹页)](https://opencollective.com/yuhan2680)
 
 ### MC相关
 ### Minecraft Related
