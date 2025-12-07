@@ -135,6 +135,8 @@ Patreon : [小涵Naiwenel](https://www.patreon.com/cw/Naiwenel)
 
 Indiegogo : [Naiwenel](https://www.indiegogo.com/en/profile/naiwenel#/overview)
 
+Gamefound : [小涵Naiwenel](https://gamefound.com/en/creators/naiwenel)
+
 Open Collective : [Naiwenel(个人页)](https://opencollective.com/naiwenel) & [Naiwenel(众筹页)](https://opencollective.com/yuhan2680)
 
 ### 视频&直播相关
