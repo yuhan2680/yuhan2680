@@ -129,6 +129,10 @@ TapTap : [Naiwenel](https://www.taptap.io/user/641794550)
 
 新物集 : 小涵Naiwenel
 
+引力圈UniFans : [小涵Naiwenel](https://app.unifans.io/c/naiwenel)
+
+闲鱼 : [小涵Naiwenel](https://www.goofish.com/personal?userId=2219273932257)
+
 Kickstarter : [小涵Naiwenel](https://www.kickstarter.com/profile/naiwenel)
 
 Patreon : [小涵Naiwenel](https://www.patreon.com/cw/Naiwenel)
