@@ -101,6 +101,8 @@ Github : [@yuhan2680](https://www.github.com/yuhan2680)
 
 CSDN : [小涵QwQ](https://blog.csdn.net/2401_86121882)
 
+Open Street Map : [小涵Naiwenel](https://www.openstreetmap.org/user/%E5%B0%8F%E6%B6%B5Naiwenel)
+
 微信公众号 : [小涵Naiwenel](https://mp.weixin.qq.com/s/f8_mq9Yt-WjnxoB-a0fSsA)
 
 灰机wiki : [Yuhan2680](https://club.huijiwiki.com/wiki/%E7%89%B9%E6%AE%8A:%E9%A9%BE%E9%A9%B6%E5%AE%A4#/user/351813/main)
