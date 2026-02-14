@@ -42,7 +42,7 @@ Joined many competitions before, like NOC, iGEM, UKMT and so on
 
 ---
 
-<img align="center" src="https://github.com/yuhan2680/yuhan2680/blob/main/background.jpg" alt="恋爱小行星 background" />
+<img align="center" src="https://github.com/yuhan2680/yuhan2680/blob/main/banner.png" alt="banner" />
 
 # 各个平台账号：
 
