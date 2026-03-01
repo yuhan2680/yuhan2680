@@ -8,7 +8,7 @@
 # 信息
 # Informations
 
-<img align="right" src="https://github.com/yuhan2680/yuhan2680/blob/main/%E5%B0%8F%E6%B6%B5-%E8%93%9D.png" width="43%" height="43%" alt="蓝发小涵" />
+<img align="right" src="https://github.com/yuhan2680/yuhan2680/blob/main/%E5%A4%B4%E5%83%8F.jpg" width="43%" height="43%" alt="头像" />
 
 awa，这里是小涵，在各个平台都有混迹的w
 
@@ -48,6 +48,9 @@ Joined many competitions before, like NOC, iGEM, UKMT and so on
 
 # Account in other platforms:
 
+<img align="right" src="https://github.com/yuhan2680/yuhan2680/blob/main/%E7%AB%96%E6%8F%92-%E7%BB%BF-%E6%8A%B1%E7%8C%AB.png" width="50%" height="50%" alt="抱猫猫" />
+
+<img align="right" src="https://github.com/yuhan2680/yuhan2680/blob/main/%E5%B0%8F%E6%B6%B5-%E8%93%9D.png" width="50%" height="50%" alt="蓝发小涵" />
 
 <img align="right" src="https://github.com/yuhan2680/yuhan2680/blob/main/%E5%B0%8F%E6%B6%B5-%E7%BB%BF.jpg" width="50%" height="50%" alt="绿发小涵" />
 
@@ -238,6 +241,8 @@ Rosetta@Home : yuhan2680
 
 # 其它
 # Others
+
+<img align="center" src="https://github.com/yuhan2680/yuhan2680/blob/main/%E5%8F%8C%E4%BA%BA.jpg" alt="双人贴贴" />
 
 性取向是无性恋，是正在HRT的Agender(无性别)
 
