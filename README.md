@@ -130,6 +130,8 @@ TapTap : [Naiwenel](https://www.taptap.io/user/641794550)
 
 爱发电 : [小涵Naiwenel](https://afdian.com/a/naiwenel)
 
+KoFi : [小涵Naiwenel](https://ko-fi.com/naiwenel)
+
 摩点 : [小涵Naiwenel](https://www.modian.com/user/homepage/1009830600)
 
 新物集 : 小涵Naiwenel
