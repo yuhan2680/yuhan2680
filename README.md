@@ -70,7 +70,7 @@ Pixiv : [小涵Naiwenel](https://www.pixiv.net/users/86800622)
 
 Pixiv Fanbox : [小涵Naiwenel](https://naiwenel.fanbox.cc/)
 
-萌娘百科 : 神楽坂小涵
+萌娘百科 : [Naiwenel](https://zh.moegirl.org.cn/User:Naiwenel)
 
 WakaTime [小涵Naiwenel](https://wakatime.com/@naiwenel)
 
