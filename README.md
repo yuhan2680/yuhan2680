@@ -76,7 +76,7 @@ WakaTime [小涵Naiwenel](https://wakatime.com/@naiwenel)
 
 Threads : @Naiwenel & [@yuhan_2680](https://www.threads.net/@yuhan_2680)
 
-XBox : yuhan2680 & GainedCanvas992
+XBox : [XiaohanNaiwenel](https://www.xbox.com/en-US/play/user/XIaohanNaiwenel) & [yuhan2680](https://www.xbox.com/en-US/play/user/yuhan2680)
 
 知乎 : [小涵Naiwenel](https://www.zhihu.com/people/jian-yu-han-41)
 
